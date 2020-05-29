@@ -19,17 +19,20 @@ Last but not least, Polymorphism means that a single variable might be used with
 <h1>Test Cases</h1>
 <p>Normally Test for Success
 When input record1,
- 
+ ![1](https://user-images.githubusercontent.com/37294801/83220741-6fc44c00-a1a6-11ea-99d0-4982febb8935.png)
 When click”add manager”button,
- 
+ ![2](https://user-images.githubusercontent.com/37294801/83220756-781c8700-a1a6-11ea-988c-a96e02f5b6f8.png)
 When click”show record”button,
+![3](https://user-images.githubusercontent.com/37294801/83220757-794db400-a1a6-11ea-931b-56524d604520.png)
 
  
 
 
 When input record2,
- 
+ ![4](https://user-images.githubusercontent.com/37294801/83220759-79e64a80-a1a6-11ea-938a-b55c6abc00f4.png)
+
 When click”add generalStaff”button,
+![5](https://user-images.githubusercontent.com/37294801/83220761-79e64a80-a1a6-11ea-97e9-ee53a926cac9.png)
 
  
 When click”show record”button,
@@ -42,9 +45,11 @@ When click”show record”button,
 Test Case 2:
 Input Information Incorrectly
 When input record 1 samely,
- 
+ ![7](https://user-images.githubusercontent.com/37294801/83220776-7fdc2b80-a1a6-11ea-8a09-9dd0cb8b59ba.png)
+
 When click GeneralStaff button,(should be error)
  
+![8](https://user-images.githubusercontent.com/37294801/83220778-810d5880-a1a6-11ea-89a6-647d08656e15.png)
 
 
 
@@ -52,13 +57,11 @@ When click GeneralStaff button,(should be error)
 
 
 When input record 2 samely,
- 
+![9](https://user-images.githubusercontent.com/37294801/83220779-810d5880-a1a6-11ea-8355-668664d2d215.png)
+
 When click manager button,(should be error)
 
- 
-
-
-
+ ![10](https://user-images.githubusercontent.com/37294801/83220782-81a5ef00-a1a6-11ea-8eda-01b834ec22ba.png)
 
 
 
@@ -66,20 +69,23 @@ When click manager button,(should be error)
 
 Test Case 3
 When data range input wrongly
- 
+  ![11](https://user-images.githubusercontent.com/37294801/83220784-81a5ef00-a1a6-11ea-951b-092732dabeeb.png)
 When null input / data type error 
 In manager button,
- 
+
 In generalStaff button,
- 
+  ![13](https://user-images.githubusercontent.com/37294801/83220790-85397600-a1a6-11ea-9ed2-d06eaedce538.png)
+
 
 Test Case 4
 About the TestSystem.java
- 
+
+![14](https://user-images.githubusercontent.com/37294801/83220792-85d20c80-a1a6-11ea-9d91-6cd4457f6f79.png)
 
 
 
 Test Case 5
 About the IncreaseSalary.java
- 
+ ![15](https://user-images.githubusercontent.com/37294801/83220793-85d20c80-a1a6-11ea-9773-7876567ec463.png)
+
 </p>
