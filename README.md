@@ -37,6 +37,8 @@ When click”add generalStaff”button,
  
 When click”show record”button,
 
+![6](https://user-images.githubusercontent.com/37294801/83220957-0264eb00-a1a7-11ea-8a54-e8a8accdb4f9.png)
+
  
 
 
@@ -72,6 +74,7 @@ When data range input wrongly
   ![11](https://user-images.githubusercontent.com/37294801/83220784-81a5ef00-a1a6-11ea-951b-092732dabeeb.png)
 When null input / data type error 
 In manager button,
+![12](https://user-images.githubusercontent.com/37294801/83220959-03961800-a1a7-11ea-9d16-8d54b251739e.png)
 
 In generalStaff button,
   ![13](https://user-images.githubusercontent.com/37294801/83220790-85397600-a1a6-11ea-9ed2-d06eaedce538.png)
