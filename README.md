@@ -19,10 +19,13 @@ Last but not least, Polymorphism means that a single variable might be used with
 <h1>Test Cases</h1>
 <p>Normally Test for Success
 When input record1,
+ 
  ![1](https://user-images.githubusercontent.com/37294801/83220741-6fc44c00-a1a6-11ea-99d0-4982febb8935.png)
 When click”add manager”button,
+
  ![2](https://user-images.githubusercontent.com/37294801/83220756-781c8700-a1a6-11ea-988c-a96e02f5b6f8.png)
 When click”show record”button,
+
 ![3](https://user-images.githubusercontent.com/37294801/83220757-794db400-a1a6-11ea-931b-56524d604520.png)
 
  
